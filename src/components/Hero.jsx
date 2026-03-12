@@ -4,7 +4,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { ArrowRight, ChevronLeft, ChevronRight, Zap, ShieldCheck, Headphones, Truck, CreditCard } from 'lucide-react';
 
 import banner1 from '@/assets/bannerr/banner1.jpg';
-import banner2 from '@/assets/bannerr/Banner2.jpg';
+import banner2 from '@/assets/bannerr/banner2.jpg';
 import banner3 from '@/assets/bannerr/banner3.jpg';
 import banner4 from '@/assets/bannerr/banner4.jpg';
 
