@@ -180,7 +180,7 @@ export default function ProductDetail() {
           <div className="lg:col-span-5 space-y-12">
             <div className="space-y-6">
               <div className="flex items-center gap-4">
-                 <span className="text-[11px] font-bold uppercase tracking-[0.4em] text-gray-400">Technical Hardware</span>
+                 <span className="text-[11px] font-bold uppercase tracking-[0.4em] text-gray-400">Premium Hardware</span>
                  <div className="flex-1 h-px bg-gray-100" />
               </div>
 
