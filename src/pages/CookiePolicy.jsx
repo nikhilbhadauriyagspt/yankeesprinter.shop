@@ -158,7 +158,7 @@ export default function CookiePolicy() {
       <div className="bg-slate-50 p-8 rounded-3xl border border-slate-100 my-8 not-prose">
         <address className="not-italic text-slate-700 font-bold leading-relaxed space-y-2 uppercase tracking-tighter">
           <p className="text-slate-900 font-black">Yankee's Printer</p>
-          <p>Saint Anthony Main Minneapolis, MN, USA 50266, USA</p>
+          <p>Saint Anthony Main Minneapolis, MN, USA</p>
           
           
           <p className="pt-4 text-blue-600 font-black lowercase">info@yankeesprinter.shop</p>

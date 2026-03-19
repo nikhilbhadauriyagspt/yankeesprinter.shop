@@ -92,7 +92,7 @@ const About = () => {
             {[
               { icon: <Shield size={18} strokeWidth={1.2} />, title: "Secure Trust", desc: "Reliable transactions and guaranteed privacy." },
               { icon: <Zap size={18} strokeWidth={1.2} />, title: "Ease of Use", desc: "Simple setup for a frustration-free experience." },
-              { icon: <Award size={18} strokeWidth={1.2} />, title: "Authenticity", desc: "Authorized source for global leading brands." }
+              { icon: <Award size={18} strokeWidth={1.2} />, title: "Premium Selection", desc: "Explore a refined range of printing solutions." }
             ].map((v, i) => (
               <div key={i} className="flex flex-col items-center text-center space-y-4">
                 <div className="text-[#96968B]">{v.icon}</div>

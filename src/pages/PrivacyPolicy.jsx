@@ -287,7 +287,7 @@ export default function PrivacyPolicy() {
       <div className="bg-slate-50 p-8 rounded-3xl border border-slate-100 my-8 not-prose">
         <address className="not-italic text-slate-700 font-bold leading-relaxed">
                      Yankee's Printer <br/>
-                    Saint Anthony Main Minneapolis, MN, USA 50266, USA
+                    Saint Anthony Main Minneapolis, MN, USA
         </address>
       </div>
 
